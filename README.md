@@ -78,7 +78,7 @@ The dataset includes:
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="Marketing_Funnel_&_Conversion_Dashboard.png" width="800">
+  <img src="Marketing Funnel & Conversion Dashboard.png" width="800">
 </p>
 
 ---
